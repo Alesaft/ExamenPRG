@@ -1,0 +1,452 @@
+[
+    {
+        "tipo": "GUERRERO",
+        "nombre": "Artorias el Caminante del Abismo",
+        "id": 1,
+        "vidaMax": 175,
+        "vidaAct": 129,
+        "ataque": 49,
+        "defensa": 36
+    },
+    {
+        "tipo": "MAGO",
+        "nombre": "Seath el Descamado",
+        "id": 2,
+        "vidaMax": 103,
+        "vidaAct": 62,
+        "ataque": 54,
+        "defensa": 11
+    },
+    {
+        "tipo": "ARQUERO",
+        "nombre": "Pharis",
+        "id": 3,
+        "vidaMax": 159,
+        "vidaAct": 144,
+        "ataque": 42,
+        "defensa": 11
+    },
+    {
+        "tipo": "CURANDERO",
+        "nombre": "Reah de Thorolund",
+        "id": 4,
+        "vidaMax": 141,
+        "vidaAct": 105,
+        "ataque": 32,
+        "defensa": 21
+    },
+    {
+        "tipo": "GUERRERO",
+        "nombre": "Solaire de Astora",
+        "id": 5,
+        "vidaMax": 167,
+        "vidaAct": 126,
+        "ataque": 35,
+        "defensa": 41
+    },
+    {
+        "tipo": "MAGO",
+        "nombre": "Big Hat Logan",
+        "id": 6,
+        "vidaMax": 116,
+        "vidaAct": 91,
+        "ataque": 46,
+        "defensa": 14
+    },
+    {
+        "tipo": "ARQUERO",
+        "nombre": "Hawkeye Gough",
+        "id": 7,
+        "vidaMax": 147,
+        "vidaAct": 129,
+        "ataque": 35,
+        "defensa": 24
+    },
+    {
+        "tipo": "CURANDERO",
+        "nombre": "Irina de Carim",
+        "id": 8,
+        "vidaMax": 122,
+        "vidaAct": 117,
+        "ataque": 29,
+        "defensa": 17
+    },
+    {
+        "tipo": "GUERRERO",
+        "nombre": "Ornstein el Asesino de Dragones",
+        "id": 9,
+        "vidaMax": 194,
+        "vidaAct": 168,
+        "ataque": 43,
+        "defensa": 25
+    },
+    {
+        "tipo": "GUERRERO",
+        "nombre": "Smough el Verdugo",
+        "id": 10,
+        "vidaMax": 142,
+        "vidaAct": 116,
+        "ataque": 33,
+        "defensa": 28
+    },
+    {
+        "tipo": "GUERRERO",
+        "nombre": "Gwyn Senor de la Ceniza",
+        "id": 11,
+        "vidaMax": 209,
+        "vidaAct": 127,
+        "ataque": 33,
+        "defensa": 41
+    },
+    {
+        "tipo": "MAGO",
+        "nombre": "Quelana de Izalith",
+        "id": 12,
+        "vidaMax": 119,
+        "vidaAct": 84,
+        "ataque": 61,
+        "defensa": 15
+    },
+    {
+        "tipo": "ARQUERO",
+        "nombre": "Ciaran la Espada del Senor",
+        "id": 13,
+        "vidaMax": 107,
+        "vidaAct": 81,
+        "ataque": 42,
+        "defensa": 20
+    },
+    {
+        "tipo": "CURANDERO",
+        "nombre": "Anastacia de Astora",
+        "id": 14,
+        "vidaMax": 131,
+        "vidaAct": 109,
+        "ataque": 26,
+        "defensa": 25
+    },
+    {
+        "tipo": "GUERRERO",
+        "nombre": "Manus Padre del Abismo",
+        "id": 15,
+        "vidaMax": 218,
+        "vidaAct": 181,
+        "ataque": 45,
+        "defensa": 30
+    },
+    {
+        "tipo": "MAGO",
+        "nombre": "Aldia Erudito del Primer Pecado",
+        "id": 16,
+        "vidaMax": 101,
+        "vidaAct": 100,
+        "ataque": 47,
+        "defensa": 9
+    },
+    {
+        "tipo": "ARQUERO",
+        "nombre": "Alonne Archer",
+        "id": 17,
+        "vidaMax": 145,
+        "vidaAct": 87,
+        "ataque": 46,
+        "defensa": 16
+    },
+    {
+        "tipo": "CURANDERO",
+        "nombre": "Maiden in Black",
+        "id": 18,
+        "vidaMax": 128,
+        "vidaAct": 110,
+        "ataque": 35,
+        "defensa": 20
+    },
+    {
+        "tipo": "GUERRERO",
+        "nombre": "Sir Alonne",
+        "id": 19,
+        "vidaMax": 167,
+        "vidaAct": 119,
+        "ataque": 41,
+        "defensa": 35
+    },
+    {
+        "tipo": "MAGO",
+        "nombre": "Vendrick Hueco",
+        "id": 20,
+        "vidaMax": 85,
+        "vidaAct": 81,
+        "ataque": 47,
+        "defensa": 10
+    },
+    {
+        "tipo": "ARQUERO",
+        "nombre": "Cazador de Oolacile",
+        "id": 21,
+        "vidaMax": 119,
+        "vidaAct": 89,
+        "ataque": 39,
+        "defensa": 17
+    },
+    {
+        "tipo": "CURANDERO",
+        "nombre": "Emerald Herald",
+        "id": 22,
+        "vidaMax": 143,
+        "vidaAct": 111,
+        "ataque": 38,
+        "defensa": 26
+    },
+    {
+        "tipo": "GUERRERO",
+        "nombre": "Fume Knight",
+        "id": 23,
+        "vidaMax": 216,
+        "vidaAct": 167,
+        "ataque": 43,
+        "defensa": 40
+    },
+    {
+        "tipo": "MAGO",
+        "nombre": "Nashandra",
+        "id": 24,
+        "vidaMax": 104,
+        "vidaAct": 98,
+        "ataque": 55,
+        "defensa": 16
+    },
+    {
+        "tipo": "ARQUERO",
+        "nombre": "Caballero Plateado Arquero",
+        "id": 25,
+        "vidaMax": 128,
+        "vidaAct": 127,
+        "ataque": 46,
+        "defensa": 20
+    },
+    {
+        "tipo": "CURANDERO",
+        "nombre": "Rosabeth de Melfia",
+        "id": 26,
+        "vidaMax": 104,
+        "vidaAct": 96,
+        "ataque": 29,
+        "defensa": 19
+    },
+    {
+        "tipo": "GUERRERO",
+        "nombre": "Pontiff Sulyvahn",
+        "id": 27,
+        "vidaMax": 157,
+        "vidaAct": 135,
+        "ataque": 37,
+        "defensa": 44
+    },
+    {
+        "tipo": "MAGO",
+        "nombre": "Yuria de Londor",
+        "id": 28,
+        "vidaMax": 111,
+        "vidaAct": 83,
+        "ataque": 52,
+        "defensa": 8
+    },
+    {
+        "tipo": "ARQUERO",
+        "nombre": "Anri de Astora",
+        "id": 29,
+        "vidaMax": 145,
+        "vidaAct": 125,
+        "ataque": 38,
+        "defensa": 14
+    },
+    {
+        "tipo": "CURANDERO",
+        "nombre": "Irina de Lothric",
+        "id": 30,
+        "vidaMax": 129,
+        "vidaAct": 104,
+        "ataque": 27,
+        "defensa": 18
+    },
+    {
+        "tipo": "GUERRERO",
+        "nombre": "Abyss Watcher",
+        "id": 31,
+        "vidaMax": 215,
+        "vidaAct": 212,
+        "ataque": 49,
+        "defensa": 26
+    },
+    {
+        "tipo": "MAGO",
+        "nombre": "Crystal Sage",
+        "id": 32,
+        "vidaMax": 123,
+        "vidaAct": 103,
+        "ataque": 51,
+        "defensa": 17
+    },
+    {
+        "tipo": "ARQUERO",
+        "nombre": "Leonhard el Dedo Anular",
+        "id": 33,
+        "vidaMax": 138,
+        "vidaAct": 89,
+        "ataque": 36,
+        "defensa": 23
+    },
+    {
+        "tipo": "CURANDERO",
+        "nombre": "Fire Keeper",
+        "id": 34,
+        "vidaMax": 102,
+        "vidaAct": 99,
+        "ataque": 21,
+        "defensa": 20
+    },
+    {
+        "tipo": "GUERRERO",
+        "nombre": "Nameless King",
+        "id": 35,
+        "vidaMax": 193,
+        "vidaAct": 156,
+        "ataque": 32,
+        "defensa": 28
+    },
+    {
+        "tipo": "MAGO",
+        "nombre": "Oceiros el Rey Consumido",
+        "id": 36,
+        "vidaMax": 117,
+        "vidaAct": 107,
+        "ataque": 45,
+        "defensa": 18
+    },
+    {
+        "tipo": "ARQUERO",
+        "nombre": "Greirat del Asentamiento",
+        "id": 37,
+        "vidaMax": 149,
+        "vidaAct": 120,
+        "ataque": 55,
+        "defensa": 10
+    },
+    {
+        "tipo": "CURANDERO",
+        "nombre": "Karla",
+        "id": 38,
+        "vidaMax": 150,
+        "vidaAct": 115,
+        "ataque": 35,
+        "defensa": 24
+    },
+    {
+        "tipo": "GUERRERO",
+        "nombre": "Lorian Principe Anciano",
+        "id": 39,
+        "vidaMax": 177,
+        "vidaAct": 172,
+        "ataque": 47,
+        "defensa": 39
+    },
+    {
+        "tipo": "MAGO",
+        "nombre": "Lothric Principe Joven",
+        "id": 40,
+        "vidaMax": 136,
+        "vidaAct": 98,
+        "ataque": 68,
+        "defensa": 18
+    },
+    {
+        "tipo": "ARQUERO",
+        "nombre": "Sirris de los Reinos sin Sol",
+        "id": 41,
+        "vidaMax": 120,
+        "vidaAct": 108,
+        "ataque": 41,
+        "defensa": 21
+    },
+    {
+        "tipo": "CURANDERO",
+        "nombre": "Filianore",
+        "id": 42,
+        "vidaMax": 100,
+        "vidaAct": 79,
+        "ataque": 21,
+        "defensa": 16
+    },
+    {
+        "tipo": "GUERRERO",
+        "nombre": "Gael el Caballero Esclavo",
+        "id": 43,
+        "vidaMax": 178,
+        "vidaAct": 135,
+        "ataque": 33,
+        "defensa": 27
+    },
+    {
+        "tipo": "MAGO",
+        "nombre": "Friede",
+        "id": 44,
+        "vidaMax": 82,
+        "vidaAct": 69,
+        "ataque": 69,
+        "defensa": 8
+    },
+    {
+        "tipo": "ARQUERO",
+        "nombre": "Millwood Knight Archer",
+        "id": 45,
+        "vidaMax": 125,
+        "vidaAct": 86,
+        "ataque": 45,
+        "defensa": 19
+    },
+    {
+        "tipo": "CURANDERO",
+        "nombre": "Shira Caballero de Filianore",
+        "id": 46,
+        "vidaMax": 102,
+        "vidaAct": 79,
+        "ataque": 28,
+        "defensa": 27
+    },
+    {
+        "tipo": "GUERRERO",
+        "nombre": "Havel la Roca",
+        "id": 47,
+        "vidaMax": 144,
+        "vidaAct": 101,
+        "ataque": 35,
+        "defensa": 45
+    },
+    {
+        "tipo": "MAGO",
+        "nombre": "Dusk de Oolacile",
+        "id": 48,
+        "vidaMax": 136,
+        "vidaAct": 87,
+        "ataque": 53,
+        "defensa": 11
+    },
+    {
+        "tipo": "ARQUERO",
+        "nombre": "Gough Ojo de Halcon",
+        "id": 49,
+        "vidaMax": 114,
+        "vidaAct": 108,
+        "ataque": 36,
+        "defensa": 25
+    },
+    {
+        "tipo": "CURANDERO",
+        "nombre": "Oswald de Carim",
+        "id": 50,
+        "vidaMax": 142,
+        "vidaAct": 96,
+        "ataque": 32,
+        "defensa": 16
+    }
+]

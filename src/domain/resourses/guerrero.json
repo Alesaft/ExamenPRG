@@ -1,0 +1,902 @@
+[
+    {
+        "id": 1,
+        "clase": "Guerrero",
+        "nombre": "Aurora",
+        "vidaMax": 125,
+        "vidaAct": 114,
+        "ataque": 32,
+        "defensa": 20
+    },
+    {
+        "id": 2,
+        "clase": "Guerrero",
+        "nombre": "Omar",
+        "vidaMax": 153,
+        "vidaAct": 130,
+        "ataque": 33,
+        "defensa": 27
+    },
+    {
+        "id": 3,
+        "clase": "Guerrero",
+        "nombre": "Mitzy",
+        "vidaMax": 157,
+        "vidaAct": 109,
+        "ataque": 28,
+        "defensa": 21
+    },
+    {
+        "id": 4,
+        "clase": "Guerrero",
+        "nombre": "María Cristina",
+        "vidaMax": 192,
+        "vidaAct": 161,
+        "ataque": 36,
+        "defensa": 37
+    },
+    {
+        "id": 5,
+        "clase": "Guerrero",
+        "nombre": "Esparta",
+        "vidaMax": 186,
+        "vidaAct": 95,
+        "ataque": 26,
+        "defensa": 33
+    },
+    {
+        "id": 6,
+        "clase": "Guerrero",
+        "nombre": "Frida",
+        "vidaMax": 171,
+        "vidaAct": 131,
+        "ataque": 44,
+        "defensa": 35
+    },
+    {
+        "id": 7,
+        "clase": "Guerrero",
+        "nombre": "Olivia",
+        "vidaMax": 160,
+        "vidaAct": 138,
+        "ataque": 31,
+        "defensa": 38
+    },
+    {
+        "id": 8,
+        "clase": "Guerrero",
+        "nombre": "Fernando",
+        "vidaMax": 179,
+        "vidaAct": 145,
+        "ataque": 44,
+        "defensa": 23
+    },
+    {
+        "id": 9,
+        "clase": "Guerrero",
+        "nombre": "Alvaro",
+        "vidaMax": 160,
+        "vidaAct": 121,
+        "ataque": 45,
+        "defensa": 31
+    },
+    {
+        "id": 10,
+        "clase": "Guerrero",
+        "nombre": "Ángela",
+        "vidaMax": 198,
+        "vidaAct": 196,
+        "ataque": 34,
+        "defensa": 32
+    },
+    {
+        "id": 11,
+        "clase": "Guerrero",
+        "nombre": "Julio",
+        "vidaMax": 146,
+        "vidaAct": 94,
+        "ataque": 38,
+        "defensa": 35
+    },
+    {
+        "id": 12,
+        "clase": "Guerrero",
+        "nombre": "Estefanía",
+        "vidaMax": 199,
+        "vidaAct": 166,
+        "ataque": 29,
+        "defensa": 27
+    },
+    {
+        "id": 13,
+        "clase": "Guerrero",
+        "nombre": "Mario",
+        "vidaMax": 167,
+        "vidaAct": 159,
+        "ataque": 29,
+        "defensa": 37
+    },
+    {
+        "id": 14,
+        "clase": "Guerrero",
+        "nombre": "Felipe",
+        "vidaMax": 153,
+        "vidaAct": 122,
+        "ataque": 28,
+        "defensa": 35
+    },
+    {
+        "id": 15,
+        "clase": "Guerrero",
+        "nombre": "Fabiola",
+        "vidaMax": 163,
+        "vidaAct": 132,
+        "ataque": 31,
+        "defensa": 36
+    },
+    {
+        "id": 16,
+        "clase": "Guerrero",
+        "nombre": "María Eugenia",
+        "vidaMax": 121,
+        "vidaAct": 106,
+        "ataque": 36,
+        "defensa": 26
+    },
+    {
+        "id": 17,
+        "clase": "Guerrero",
+        "nombre": "Eugenia",
+        "vidaMax": 185,
+        "vidaAct": 110,
+        "ataque": 34,
+        "defensa": 27
+    },
+    {
+        "id": 18,
+        "clase": "Guerrero",
+        "nombre": "Luisa",
+        "vidaMax": 164,
+        "vidaAct": 146,
+        "ataque": 45,
+        "defensa": 21
+    },
+    {
+        "id": 19,
+        "clase": "Guerrero",
+        "nombre": "Joaquín",
+        "vidaMax": 181,
+        "vidaAct": 124,
+        "ataque": 41,
+        "defensa": 35
+    },
+    {
+        "id": 20,
+        "clase": "Guerrero",
+        "nombre": "Julio",
+        "vidaMax": 172,
+        "vidaAct": 122,
+        "ataque": 28,
+        "defensa": 24
+    },
+    {
+        "id": 21,
+        "clase": "Guerrero",
+        "nombre": "Agustín",
+        "vidaMax": 181,
+        "vidaAct": 95,
+        "ataque": 25,
+        "defensa": 31
+    },
+    {
+        "id": 22,
+        "clase": "Guerrero",
+        "nombre": "Gerardo",
+        "vidaMax": 134,
+        "vidaAct": 128,
+        "ataque": 25,
+        "defensa": 24
+    },
+    {
+        "id": 23,
+        "clase": "Guerrero",
+        "nombre": "José Emilio",
+        "vidaMax": 199,
+        "vidaAct": 145,
+        "ataque": 44,
+        "defensa": 30
+    },
+    {
+        "id": 24,
+        "clase": "Guerrero",
+        "nombre": "Joaquín",
+        "vidaMax": 142,
+        "vidaAct": 133,
+        "ataque": 27,
+        "defensa": 35
+    },
+    {
+        "id": 25,
+        "clase": "Guerrero",
+        "nombre": "Gerardo",
+        "vidaMax": 160,
+        "vidaAct": 155,
+        "ataque": 27,
+        "defensa": 37
+    },
+    {
+        "id": 26,
+        "clase": "Guerrero",
+        "nombre": "Anabel",
+        "vidaMax": 183,
+        "vidaAct": 144,
+        "ataque": 43,
+        "defensa": 33
+    },
+    {
+        "id": 27,
+        "clase": "Guerrero",
+        "nombre": "Dulce",
+        "vidaMax": 147,
+        "vidaAct": 112,
+        "ataque": 28,
+        "defensa": 38
+    },
+    {
+        "id": 28,
+        "clase": "Guerrero",
+        "nombre": "Javier",
+        "vidaMax": 138,
+        "vidaAct": 121,
+        "ataque": 34,
+        "defensa": 24
+    },
+    {
+        "id": 29,
+        "clase": "Guerrero",
+        "nombre": "Nelly",
+        "vidaMax": 140,
+        "vidaAct": 117,
+        "ataque": 45,
+        "defensa": 27
+    },
+    {
+        "id": 30,
+        "clase": "Guerrero",
+        "nombre": "Georgina",
+        "vidaMax": 140,
+        "vidaAct": 119,
+        "ataque": 34,
+        "defensa": 25
+    },
+    {
+        "id": 31,
+        "clase": "Guerrero",
+        "nombre": "Hilda",
+        "vidaMax": 145,
+        "vidaAct": 130,
+        "ataque": 34,
+        "defensa": 22
+    },
+    {
+        "id": 32,
+        "clase": "Guerrero",
+        "nombre": "Gilberto",
+        "vidaMax": 184,
+        "vidaAct": 103,
+        "ataque": 32,
+        "defensa": 27
+    },
+    {
+        "id": 33,
+        "clase": "Guerrero",
+        "nombre": "María del Carmen",
+        "vidaMax": 161,
+        "vidaAct": 143,
+        "ataque": 41,
+        "defensa": 27
+    },
+    {
+        "id": 34,
+        "clase": "Guerrero",
+        "nombre": "Elisa",
+        "vidaMax": 191,
+        "vidaAct": 141,
+        "ataque": 40,
+        "defensa": 34
+    },
+    {
+        "id": 35,
+        "clase": "Guerrero",
+        "nombre": "Francisca",
+        "vidaMax": 135,
+        "vidaAct": 120,
+        "ataque": 28,
+        "defensa": 23
+    },
+    {
+        "id": 36,
+        "clase": "Guerrero",
+        "nombre": "Sessa",
+        "vidaMax": 175,
+        "vidaAct": 161,
+        "ataque": 44,
+        "defensa": 23
+    },
+    {
+        "id": 37,
+        "clase": "Guerrero",
+        "nombre": "Salma",
+        "vidaMax": 137,
+        "vidaAct": 68,
+        "ataque": 43,
+        "defensa": 34
+    },
+    {
+        "id": 38,
+        "clase": "Guerrero",
+        "nombre": "Ivonne",
+        "vidaMax": 135,
+        "vidaAct": 128,
+        "ataque": 32,
+        "defensa": 39
+    },
+    {
+        "id": 39,
+        "clase": "Guerrero",
+        "nombre": "Nancy",
+        "vidaMax": 166,
+        "vidaAct": 94,
+        "ataque": 41,
+        "defensa": 23
+    },
+    {
+        "id": 40,
+        "clase": "Guerrero",
+        "nombre": "Juan",
+        "vidaMax": 171,
+        "vidaAct": 170,
+        "ataque": 27,
+        "defensa": 22
+    },
+    {
+        "id": 41,
+        "clase": "Guerrero",
+        "nombre": "María del Carmen",
+        "vidaMax": 161,
+        "vidaAct": 144,
+        "ataque": 29,
+        "defensa": 21
+    },
+    {
+        "id": 42,
+        "clase": "Guerrero",
+        "nombre": "Magdalena",
+        "vidaMax": 131,
+        "vidaAct": 126,
+        "ataque": 29,
+        "defensa": 34
+    },
+    {
+        "id": 43,
+        "clase": "Guerrero",
+        "nombre": "Karla",
+        "vidaMax": 144,
+        "vidaAct": 142,
+        "ataque": 32,
+        "defensa": 23
+    },
+    {
+        "id": 44,
+        "clase": "Guerrero",
+        "nombre": "Virginia",
+        "vidaMax": 161,
+        "vidaAct": 107,
+        "ataque": 37,
+        "defensa": 23
+    },
+    {
+        "id": 45,
+        "clase": "Guerrero",
+        "nombre": "Lucas",
+        "vidaMax": 174,
+        "vidaAct": 144,
+        "ataque": 34,
+        "defensa": 26
+    },
+    {
+        "id": 46,
+        "clase": "Guerrero",
+        "nombre": "Oswaldo",
+        "vidaMax": 127,
+        "vidaAct": 123,
+        "ataque": 30,
+        "defensa": 22
+    },
+    {
+        "id": 47,
+        "clase": "Guerrero",
+        "nombre": "Norma",
+        "vidaMax": 187,
+        "vidaAct": 148,
+        "ataque": 44,
+        "defensa": 39
+    },
+    {
+        "id": 48,
+        "clase": "Guerrero",
+        "nombre": "Olivia",
+        "vidaMax": 128,
+        "vidaAct": 100,
+        "ataque": 34,
+        "defensa": 32
+    },
+    {
+        "id": 49,
+        "clase": "Guerrero",
+        "nombre": "David",
+        "vidaMax": 168,
+        "vidaAct": 123,
+        "ataque": 28,
+        "defensa": 30
+    },
+    {
+        "id": 50,
+        "clase": "Guerrero",
+        "nombre": "Adriana",
+        "vidaMax": 196,
+        "vidaAct": 145,
+        "ataque": 35,
+        "defensa": 39
+    },
+    {
+        "id": 51,
+        "clase": "Guerrero",
+        "nombre": "Rafaél",
+        "vidaMax": 130,
+        "vidaAct": 85,
+        "ataque": 42,
+        "defensa": 22
+    },
+    {
+        "id": 52,
+        "clase": "Guerrero",
+        "nombre": "Vicente",
+        "vidaMax": 193,
+        "vidaAct": 146,
+        "ataque": 33,
+        "defensa": 28
+    },
+    {
+        "id": 53,
+        "clase": "Guerrero",
+        "nombre": "Camilo",
+        "vidaMax": 172,
+        "vidaAct": 87,
+        "ataque": 40,
+        "defensa": 22
+    },
+    {
+        "id": 54,
+        "clase": "Guerrero",
+        "nombre": "María José",
+        "vidaMax": 181,
+        "vidaAct": 178,
+        "ataque": 40,
+        "defensa": 25
+    },
+    {
+        "id": 55,
+        "clase": "Guerrero",
+        "nombre": "Ariadna",
+        "vidaMax": 144,
+        "vidaAct": 73,
+        "ataque": 42,
+        "defensa": 21
+    },
+    {
+        "id": 56,
+        "clase": "Guerrero",
+        "nombre": "Jorge Luis",
+        "vidaMax": 178,
+        "vidaAct": 149,
+        "ataque": 31,
+        "defensa": 31
+    },
+    {
+        "id": 57,
+        "clase": "Guerrero",
+        "nombre": "Santiago",
+        "vidaMax": 187,
+        "vidaAct": 100,
+        "ataque": 45,
+        "defensa": 20
+    },
+    {
+        "id": 58,
+        "clase": "Guerrero",
+        "nombre": "Elias",
+        "vidaMax": 162,
+        "vidaAct": 91,
+        "ataque": 37,
+        "defensa": 23
+    },
+    {
+        "id": 59,
+        "clase": "Guerrero",
+        "nombre": "Teodoro",
+        "vidaMax": 183,
+        "vidaAct": 148,
+        "ataque": 39,
+        "defensa": 21
+    },
+    {
+        "id": 60,
+        "clase": "Guerrero",
+        "nombre": "Susana",
+        "vidaMax": 135,
+        "vidaAct": 131,
+        "ataque": 26,
+        "defensa": 27
+    },
+    {
+        "id": 61,
+        "clase": "Guerrero",
+        "nombre": "Martín",
+        "vidaMax": 185,
+        "vidaAct": 124,
+        "ataque": 43,
+        "defensa": 39
+    },
+    {
+        "id": 62,
+        "clase": "Guerrero",
+        "nombre": "Rosalia",
+        "vidaMax": 168,
+        "vidaAct": 108,
+        "ataque": 41,
+        "defensa": 35
+    },
+    {
+        "id": 63,
+        "clase": "Guerrero",
+        "nombre": "Margarita",
+        "vidaMax": 178,
+        "vidaAct": 129,
+        "ataque": 39,
+        "defensa": 36
+    },
+    {
+        "id": 64,
+        "clase": "Guerrero",
+        "nombre": "Israel",
+        "vidaMax": 164,
+        "vidaAct": 84,
+        "ataque": 32,
+        "defensa": 20
+    },
+    {
+        "id": 65,
+        "clase": "Guerrero",
+        "nombre": "Yolanda",
+        "vidaMax": 122,
+        "vidaAct": 121,
+        "ataque": 32,
+        "defensa": 29
+    },
+    {
+        "id": 66,
+        "clase": "Guerrero",
+        "nombre": "Omar",
+        "vidaMax": 124,
+        "vidaAct": 102,
+        "ataque": 35,
+        "defensa": 30
+    },
+    {
+        "id": 67,
+        "clase": "Guerrero",
+        "nombre": "Juan",
+        "vidaMax": 175,
+        "vidaAct": 171,
+        "ataque": 30,
+        "defensa": 39
+    },
+    {
+        "id": 68,
+        "clase": "Guerrero",
+        "nombre": "Arturo",
+        "vidaMax": 171,
+        "vidaAct": 94,
+        "ataque": 41,
+        "defensa": 39
+    },
+    {
+        "id": 69,
+        "clase": "Guerrero",
+        "nombre": "Graciela",
+        "vidaMax": 132,
+        "vidaAct": 92,
+        "ataque": 39,
+        "defensa": 35
+    },
+    {
+        "id": 70,
+        "clase": "Guerrero",
+        "nombre": "Dalia",
+        "vidaMax": 173,
+        "vidaAct": 97,
+        "ataque": 35,
+        "defensa": 33
+    },
+    {
+        "id": 71,
+        "clase": "Guerrero",
+        "nombre": "Violeta",
+        "vidaMax": 167,
+        "vidaAct": 163,
+        "ataque": 31,
+        "defensa": 37
+    },
+    {
+        "id": 72,
+        "clase": "Guerrero",
+        "nombre": "Cristal",
+        "vidaMax": 188,
+        "vidaAct": 181,
+        "ataque": 35,
+        "defensa": 23
+    },
+    {
+        "id": 73,
+        "clase": "Guerrero",
+        "nombre": "Angélica",
+        "vidaMax": 180,
+        "vidaAct": 150,
+        "ataque": 35,
+        "defensa": 36
+    },
+    {
+        "id": 74,
+        "clase": "Guerrero",
+        "nombre": "Emilia",
+        "vidaMax": 193,
+        "vidaAct": 138,
+        "ataque": 36,
+        "defensa": 35
+    },
+    {
+        "id": 75,
+        "clase": "Guerrero",
+        "nombre": "Mariano",
+        "vidaMax": 189,
+        "vidaAct": 163,
+        "ataque": 30,
+        "defensa": 36
+    },
+    {
+        "id": 76,
+        "clase": "Guerrero",
+        "nombre": "José Luis",
+        "vidaMax": 146,
+        "vidaAct": 145,
+        "ataque": 35,
+        "defensa": 30
+    },
+    {
+        "id": 77,
+        "clase": "Guerrero",
+        "nombre": "Jonás",
+        "vidaMax": 132,
+        "vidaAct": 115,
+        "ataque": 32,
+        "defensa": 32
+    },
+    {
+        "id": 78,
+        "clase": "Guerrero",
+        "nombre": "Catalina",
+        "vidaMax": 151,
+        "vidaAct": 105,
+        "ataque": 26,
+        "defensa": 29
+    },
+    {
+        "id": 79,
+        "clase": "Guerrero",
+        "nombre": "Adán",
+        "vidaMax": 121,
+        "vidaAct": 75,
+        "ataque": 35,
+        "defensa": 25
+    },
+    {
+        "id": 80,
+        "clase": "Guerrero",
+        "nombre": "Cecilia",
+        "vidaMax": 175,
+        "vidaAct": 175,
+        "ataque": 32,
+        "defensa": 37
+    },
+    {
+        "id": 81,
+        "clase": "Guerrero",
+        "nombre": "Nadia",
+        "vidaMax": 143,
+        "vidaAct": 118,
+        "ataque": 28,
+        "defensa": 26
+    },
+    {
+        "id": 82,
+        "clase": "Guerrero",
+        "nombre": "Jorge Luis",
+        "vidaMax": 125,
+        "vidaAct": 117,
+        "ataque": 39,
+        "defensa": 24
+    },
+    {
+        "id": 83,
+        "clase": "Guerrero",
+        "nombre": "Elsa",
+        "vidaMax": 124,
+        "vidaAct": 108,
+        "ataque": 26,
+        "defensa": 31
+    },
+    {
+        "id": 84,
+        "clase": "Guerrero",
+        "nombre": "Susana",
+        "vidaMax": 130,
+        "vidaAct": 77,
+        "ataque": 33,
+        "defensa": 26
+    },
+    {
+        "id": 85,
+        "clase": "Guerrero",
+        "nombre": "Rafaél",
+        "vidaMax": 163,
+        "vidaAct": 94,
+        "ataque": 40,
+        "defensa": 28
+    },
+    {
+        "id": 86,
+        "clase": "Guerrero",
+        "nombre": "Adela",
+        "vidaMax": 194,
+        "vidaAct": 109,
+        "ataque": 30,
+        "defensa": 33
+    },
+    {
+        "id": 87,
+        "clase": "Guerrero",
+        "nombre": "Rubén",
+        "vidaMax": 186,
+        "vidaAct": 183,
+        "ataque": 40,
+        "defensa": 26
+    },
+    {
+        "id": 88,
+        "clase": "Guerrero",
+        "nombre": "Ofelia",
+        "vidaMax": 198,
+        "vidaAct": 153,
+        "ataque": 37,
+        "defensa": 21
+    },
+    {
+        "id": 89,
+        "clase": "Guerrero",
+        "nombre": "Eugenio",
+        "vidaMax": 187,
+        "vidaAct": 146,
+        "ataque": 42,
+        "defensa": 37
+    },
+    {
+        "id": 90,
+        "clase": "Guerrero",
+        "nombre": "Soledad",
+        "vidaMax": 122,
+        "vidaAct": 118,
+        "ataque": 41,
+        "defensa": 36
+    },
+    {
+        "id": 91,
+        "clase": "Guerrero",
+        "nombre": "Gregorio",
+        "vidaMax": 126,
+        "vidaAct": 63,
+        "ataque": 32,
+        "defensa": 22
+    },
+    {
+        "id": 92,
+        "clase": "Guerrero",
+        "nombre": "Alma",
+        "vidaMax": 182,
+        "vidaAct": 167,
+        "ataque": 27,
+        "defensa": 32
+    },
+    {
+        "id": 93,
+        "clase": "Guerrero",
+        "nombre": "Victoria",
+        "vidaMax": 185,
+        "vidaAct": 96,
+        "ataque": 43,
+        "defensa": 21
+    },
+    {
+        "id": 94,
+        "clase": "Guerrero",
+        "nombre": "Virginia",
+        "vidaMax": 165,
+        "vidaAct": 154,
+        "ataque": 28,
+        "defensa": 36
+    },
+    {
+        "id": 95,
+        "clase": "Guerrero",
+        "nombre": "Carmen",
+        "vidaMax": 176,
+        "vidaAct": 137,
+        "ataque": 34,
+        "defensa": 20
+    },
+    {
+        "id": 96,
+        "clase": "Guerrero",
+        "nombre": "Miriam",
+        "vidaMax": 167,
+        "vidaAct": 134,
+        "ataque": 32,
+        "defensa": 40
+    },
+    {
+        "id": 97,
+        "clase": "Guerrero",
+        "nombre": "Ana Luisa",
+        "vidaMax": 164,
+        "vidaAct": 156,
+        "ataque": 31,
+        "defensa": 31
+    },
+    {
+        "id": 98,
+        "clase": "Guerrero",
+        "nombre": "José Carlos",
+        "vidaMax": 137,
+        "vidaAct": 80,
+        "ataque": 33,
+        "defensa": 39
+    },
+    {
+        "id": 99,
+        "clase": "Guerrero",
+        "nombre": "Hilda",
+        "vidaMax": 133,
+        "vidaAct": 85,
+        "ataque": 40,
+        "defensa": 33
+    },
+    {
+        "id": 100,
+        "clase": "Guerrero",
+        "nombre": "María del Carmen",
+        "vidaMax": 185,
+        "vidaAct": 158,
+        "ataque": 32,
+        "defensa": 30
+    }
+]

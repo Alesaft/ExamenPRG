@@ -1,0 +1,902 @@
+[
+    {
+        "id": 1,
+        "clase": "Arquero",
+        "nombre": "Irene",
+        "vidaMax": 93,
+        "vidaAct": 77,
+        "ataque": 44,
+        "defensa": 25
+    },
+    {
+        "id": 2,
+        "clase": "Arquero",
+        "nombre": "Ignacio",
+        "vidaMax": 119,
+        "vidaAct": 99,
+        "ataque": 30,
+        "defensa": 25
+    },
+    {
+        "id": 3,
+        "clase": "Arquero",
+        "nombre": "Abraham",
+        "vidaMax": 101,
+        "vidaAct": 58,
+        "ataque": 44,
+        "defensa": 23
+    },
+    {
+        "id": 4,
+        "clase": "Arquero",
+        "nombre": "Emilia",
+        "vidaMax": 143,
+        "vidaAct": 82,
+        "ataque": 30,
+        "defensa": 10
+    },
+    {
+        "id": 5,
+        "clase": "Arquero",
+        "nombre": "Dalia",
+        "vidaMax": 132,
+        "vidaAct": 89,
+        "ataque": 39,
+        "defensa": 22
+    },
+    {
+        "id": 6,
+        "clase": "Arquero",
+        "nombre": "Reina",
+        "vidaMax": 131,
+        "vidaAct": 101,
+        "ataque": 31,
+        "defensa": 18
+    },
+    {
+        "id": 7,
+        "clase": "Arquero",
+        "nombre": "Guadalupe",
+        "vidaMax": 92,
+        "vidaAct": 72,
+        "ataque": 36,
+        "defensa": 14
+    },
+    {
+        "id": 8,
+        "clase": "Arquero",
+        "nombre": "Lucía",
+        "vidaMax": 148,
+        "vidaAct": 131,
+        "ataque": 37,
+        "defensa": 19
+    },
+    {
+        "id": 9,
+        "clase": "Arquero",
+        "nombre": "Emilia",
+        "vidaMax": 96,
+        "vidaAct": 75,
+        "ataque": 49,
+        "defensa": 21
+    },
+    {
+        "id": 10,
+        "clase": "Arquero",
+        "nombre": "Jaime",
+        "vidaMax": 124,
+        "vidaAct": 90,
+        "ataque": 34,
+        "defensa": 21
+    },
+    {
+        "id": 11,
+        "clase": "Arquero",
+        "nombre": "Oswaldo",
+        "vidaMax": 101,
+        "vidaAct": 63,
+        "ataque": 38,
+        "defensa": 16
+    },
+    {
+        "id": 12,
+        "clase": "Arquero",
+        "nombre": "Conchita",
+        "vidaMax": 127,
+        "vidaAct": 70,
+        "ataque": 30,
+        "defensa": 10
+    },
+    {
+        "id": 13,
+        "clase": "Arquero",
+        "nombre": "Débora",
+        "vidaMax": 116,
+        "vidaAct": 100,
+        "ataque": 38,
+        "defensa": 11
+    },
+    {
+        "id": 14,
+        "clase": "Arquero",
+        "nombre": "Amador",
+        "vidaMax": 149,
+        "vidaAct": 113,
+        "ataque": 49,
+        "defensa": 24
+    },
+    {
+        "id": 15,
+        "clase": "Arquero",
+        "nombre": "Martha",
+        "vidaMax": 122,
+        "vidaAct": 70,
+        "ataque": 40,
+        "defensa": 13
+    },
+    {
+        "id": 16,
+        "clase": "Arquero",
+        "nombre": "Estela",
+        "vidaMax": 140,
+        "vidaAct": 138,
+        "ataque": 38,
+        "defensa": 18
+    },
+    {
+        "id": 17,
+        "clase": "Arquero",
+        "nombre": "Óliver",
+        "vidaMax": 105,
+        "vidaAct": 88,
+        "ataque": 31,
+        "defensa": 15
+    },
+    {
+        "id": 18,
+        "clase": "Arquero",
+        "nombre": "Federico",
+        "vidaMax": 96,
+        "vidaAct": 54,
+        "ataque": 46,
+        "defensa": 19
+    },
+    {
+        "id": 19,
+        "clase": "Arquero",
+        "nombre": "Leonor",
+        "vidaMax": 94,
+        "vidaAct": 64,
+        "ataque": 31,
+        "defensa": 22
+    },
+    {
+        "id": 20,
+        "clase": "Arquero",
+        "nombre": "Rafaél",
+        "vidaMax": 125,
+        "vidaAct": 71,
+        "ataque": 30,
+        "defensa": 16
+    },
+    {
+        "id": 21,
+        "clase": "Arquero",
+        "nombre": "Minerva",
+        "vidaMax": 138,
+        "vidaAct": 93,
+        "ataque": 37,
+        "defensa": 24
+    },
+    {
+        "id": 22,
+        "clase": "Arquero",
+        "nombre": "Hernán",
+        "vidaMax": 111,
+        "vidaAct": 89,
+        "ataque": 50,
+        "defensa": 22
+    },
+    {
+        "id": 23,
+        "clase": "Arquero",
+        "nombre": "Soledad",
+        "vidaMax": 141,
+        "vidaAct": 71,
+        "ataque": 43,
+        "defensa": 21
+    },
+    {
+        "id": 24,
+        "clase": "Arquero",
+        "nombre": "Sergio",
+        "vidaMax": 116,
+        "vidaAct": 59,
+        "ataque": 42,
+        "defensa": 20
+    },
+    {
+        "id": 25,
+        "clase": "Arquero",
+        "nombre": "Ángela",
+        "vidaMax": 136,
+        "vidaAct": 87,
+        "ataque": 49,
+        "defensa": 14
+    },
+    {
+        "id": 26,
+        "clase": "Arquero",
+        "nombre": "Ángela",
+        "vidaMax": 123,
+        "vidaAct": 108,
+        "ataque": 31,
+        "defensa": 15
+    },
+    {
+        "id": 27,
+        "clase": "Arquero",
+        "nombre": "Aldonza",
+        "vidaMax": 126,
+        "vidaAct": 90,
+        "ataque": 39,
+        "defensa": 11
+    },
+    {
+        "id": 28,
+        "clase": "Arquero",
+        "nombre": "Sandra",
+        "vidaMax": 149,
+        "vidaAct": 107,
+        "ataque": 34,
+        "defensa": 22
+    },
+    {
+        "id": 29,
+        "clase": "Arquero",
+        "nombre": "José Carlos",
+        "vidaMax": 115,
+        "vidaAct": 85,
+        "ataque": 39,
+        "defensa": 19
+    },
+    {
+        "id": 30,
+        "clase": "Arquero",
+        "nombre": "Javier",
+        "vidaMax": 118,
+        "vidaAct": 62,
+        "ataque": 33,
+        "defensa": 21
+    },
+    {
+        "id": 31,
+        "clase": "Arquero",
+        "nombre": "Celia",
+        "vidaMax": 116,
+        "vidaAct": 109,
+        "ataque": 49,
+        "defensa": 11
+    },
+    {
+        "id": 32,
+        "clase": "Arquero",
+        "nombre": "Amalia",
+        "vidaMax": 133,
+        "vidaAct": 129,
+        "ataque": 36,
+        "defensa": 14
+    },
+    {
+        "id": 33,
+        "clase": "Arquero",
+        "nombre": "Marco Antonio",
+        "vidaMax": 131,
+        "vidaAct": 102,
+        "ataque": 33,
+        "defensa": 10
+    },
+    {
+        "id": 34,
+        "clase": "Arquero",
+        "nombre": "Silvia",
+        "vidaMax": 136,
+        "vidaAct": 131,
+        "ataque": 42,
+        "defensa": 18
+    },
+    {
+        "id": 35,
+        "clase": "Arquero",
+        "nombre": "Minerva",
+        "vidaMax": 147,
+        "vidaAct": 129,
+        "ataque": 37,
+        "defensa": 25
+    },
+    {
+        "id": 36,
+        "clase": "Arquero",
+        "nombre": "Germán",
+        "vidaMax": 129,
+        "vidaAct": 124,
+        "ataque": 46,
+        "defensa": 25
+    },
+    {
+        "id": 37,
+        "clase": "Arquero",
+        "nombre": "Camila",
+        "vidaMax": 118,
+        "vidaAct": 82,
+        "ataque": 43,
+        "defensa": 16
+    },
+    {
+        "id": 38,
+        "clase": "Arquero",
+        "nombre": "Emilio",
+        "vidaMax": 106,
+        "vidaAct": 92,
+        "ataque": 30,
+        "defensa": 12
+    },
+    {
+        "id": 39,
+        "clase": "Arquero",
+        "nombre": "Concepción",
+        "vidaMax": 148,
+        "vidaAct": 74,
+        "ataque": 34,
+        "defensa": 11
+    },
+    {
+        "id": 40,
+        "clase": "Arquero",
+        "nombre": "Fernando",
+        "vidaMax": 144,
+        "vidaAct": 130,
+        "ataque": 34,
+        "defensa": 24
+    },
+    {
+        "id": 41,
+        "clase": "Arquero",
+        "nombre": "Daniela",
+        "vidaMax": 103,
+        "vidaAct": 79,
+        "ataque": 47,
+        "defensa": 14
+    },
+    {
+        "id": 42,
+        "clase": "Arquero",
+        "nombre": "Estela",
+        "vidaMax": 115,
+        "vidaAct": 94,
+        "ataque": 36,
+        "defensa": 13
+    },
+    {
+        "id": 43,
+        "clase": "Arquero",
+        "nombre": "Isabela",
+        "vidaMax": 117,
+        "vidaAct": 96,
+        "ataque": 50,
+        "defensa": 18
+    },
+    {
+        "id": 44,
+        "clase": "Arquero",
+        "nombre": "Yuridia",
+        "vidaMax": 138,
+        "vidaAct": 74,
+        "ataque": 34,
+        "defensa": 23
+    },
+    {
+        "id": 45,
+        "clase": "Arquero",
+        "nombre": "Perla",
+        "vidaMax": 104,
+        "vidaAct": 103,
+        "ataque": 44,
+        "defensa": 12
+    },
+    {
+        "id": 46,
+        "clase": "Arquero",
+        "nombre": "Minerva",
+        "vidaMax": 137,
+        "vidaAct": 74,
+        "ataque": 37,
+        "defensa": 16
+    },
+    {
+        "id": 47,
+        "clase": "Arquero",
+        "nombre": "Nicolás",
+        "vidaMax": 118,
+        "vidaAct": 74,
+        "ataque": 39,
+        "defensa": 16
+    },
+    {
+        "id": 48,
+        "clase": "Arquero",
+        "nombre": "Sessa",
+        "vidaMax": 131,
+        "vidaAct": 71,
+        "ataque": 45,
+        "defensa": 16
+    },
+    {
+        "id": 49,
+        "clase": "Arquero",
+        "nombre": "Sofía",
+        "vidaMax": 119,
+        "vidaAct": 116,
+        "ataque": 45,
+        "defensa": 16
+    },
+    {
+        "id": 50,
+        "clase": "Arquero",
+        "nombre": "Porfirio",
+        "vidaMax": 106,
+        "vidaAct": 84,
+        "ataque": 35,
+        "defensa": 16
+    },
+    {
+        "id": 51,
+        "clase": "Arquero",
+        "nombre": "Karla",
+        "vidaMax": 146,
+        "vidaAct": 102,
+        "ataque": 30,
+        "defensa": 11
+    },
+    {
+        "id": 52,
+        "clase": "Arquero",
+        "nombre": "Salvador",
+        "vidaMax": 116,
+        "vidaAct": 105,
+        "ataque": 43,
+        "defensa": 25
+    },
+    {
+        "id": 53,
+        "clase": "Arquero",
+        "nombre": "Jaime",
+        "vidaMax": 94,
+        "vidaAct": 65,
+        "ataque": 45,
+        "defensa": 21
+    },
+    {
+        "id": 54,
+        "clase": "Arquero",
+        "nombre": "Emiliano",
+        "vidaMax": 132,
+        "vidaAct": 97,
+        "ataque": 45,
+        "defensa": 21
+    },
+    {
+        "id": 55,
+        "clase": "Arquero",
+        "nombre": "Israel",
+        "vidaMax": 107,
+        "vidaAct": 57,
+        "ataque": 43,
+        "defensa": 10
+    },
+    {
+        "id": 56,
+        "clase": "Arquero",
+        "nombre": "Elias",
+        "vidaMax": 124,
+        "vidaAct": 85,
+        "ataque": 39,
+        "defensa": 15
+    },
+    {
+        "id": 57,
+        "clase": "Arquero",
+        "nombre": "Micaela",
+        "vidaMax": 115,
+        "vidaAct": 60,
+        "ataque": 41,
+        "defensa": 21
+    },
+    {
+        "id": 58,
+        "clase": "Arquero",
+        "nombre": "María Cristina",
+        "vidaMax": 143,
+        "vidaAct": 134,
+        "ataque": 33,
+        "defensa": 17
+    },
+    {
+        "id": 59,
+        "clase": "Arquero",
+        "nombre": "Cynthia",
+        "vidaMax": 133,
+        "vidaAct": 125,
+        "ataque": 48,
+        "defensa": 15
+    },
+    {
+        "id": 60,
+        "clase": "Arquero",
+        "nombre": "Asunción",
+        "vidaMax": 127,
+        "vidaAct": 97,
+        "ataque": 45,
+        "defensa": 11
+    },
+    {
+        "id": 61,
+        "clase": "Arquero",
+        "nombre": "Caridad",
+        "vidaMax": 104,
+        "vidaAct": 61,
+        "ataque": 39,
+        "defensa": 21
+    },
+    {
+        "id": 62,
+        "clase": "Arquero",
+        "nombre": "Marisela",
+        "vidaMax": 106,
+        "vidaAct": 96,
+        "ataque": 35,
+        "defensa": 23
+    },
+    {
+        "id": 63,
+        "clase": "Arquero",
+        "nombre": "Susana",
+        "vidaMax": 147,
+        "vidaAct": 133,
+        "ataque": 50,
+        "defensa": 16
+    },
+    {
+        "id": 64,
+        "clase": "Arquero",
+        "nombre": "Sandra",
+        "vidaMax": 150,
+        "vidaAct": 148,
+        "ataque": 47,
+        "defensa": 17
+    },
+    {
+        "id": 65,
+        "clase": "Arquero",
+        "nombre": "Francisco Javier",
+        "vidaMax": 145,
+        "vidaAct": 126,
+        "ataque": 36,
+        "defensa": 13
+    },
+    {
+        "id": 66,
+        "clase": "Arquero",
+        "nombre": "Serafín",
+        "vidaMax": 131,
+        "vidaAct": 102,
+        "ataque": 45,
+        "defensa": 20
+    },
+    {
+        "id": 67,
+        "clase": "Arquero",
+        "nombre": "Nicolás",
+        "vidaMax": 143,
+        "vidaAct": 87,
+        "ataque": 47,
+        "defensa": 22
+    },
+    {
+        "id": 68,
+        "clase": "Arquero",
+        "nombre": "Iván",
+        "vidaMax": 131,
+        "vidaAct": 74,
+        "ataque": 34,
+        "defensa": 12
+    },
+    {
+        "id": 69,
+        "clase": "Arquero",
+        "nombre": "Sandra",
+        "vidaMax": 126,
+        "vidaAct": 118,
+        "ataque": 31,
+        "defensa": 17
+    },
+    {
+        "id": 70,
+        "clase": "Arquero",
+        "nombre": "María Elena",
+        "vidaMax": 106,
+        "vidaAct": 97,
+        "ataque": 31,
+        "defensa": 16
+    },
+    {
+        "id": 71,
+        "clase": "Arquero",
+        "nombre": "Pascual",
+        "vidaMax": 134,
+        "vidaAct": 118,
+        "ataque": 48,
+        "defensa": 13
+    },
+    {
+        "id": 72,
+        "clase": "Arquero",
+        "nombre": "Alberto",
+        "vidaMax": 110,
+        "vidaAct": 74,
+        "ataque": 34,
+        "defensa": 18
+    },
+    {
+        "id": 73,
+        "clase": "Arquero",
+        "nombre": "Cynthia",
+        "vidaMax": 119,
+        "vidaAct": 107,
+        "ataque": 34,
+        "defensa": 22
+    },
+    {
+        "id": 74,
+        "clase": "Arquero",
+        "nombre": "Abelardo",
+        "vidaMax": 93,
+        "vidaAct": 89,
+        "ataque": 30,
+        "defensa": 10
+    },
+    {
+        "id": 75,
+        "clase": "Arquero",
+        "nombre": "Natalia",
+        "vidaMax": 112,
+        "vidaAct": 108,
+        "ataque": 37,
+        "defensa": 12
+    },
+    {
+        "id": 76,
+        "clase": "Arquero",
+        "nombre": "Bianca",
+        "vidaMax": 90,
+        "vidaAct": 90,
+        "ataque": 44,
+        "defensa": 22
+    },
+    {
+        "id": 77,
+        "clase": "Arquero",
+        "nombre": "Eloy",
+        "vidaMax": 141,
+        "vidaAct": 75,
+        "ataque": 46,
+        "defensa": 24
+    },
+    {
+        "id": 78,
+        "clase": "Arquero",
+        "nombre": "Natalia",
+        "vidaMax": 116,
+        "vidaAct": 64,
+        "ataque": 46,
+        "defensa": 11
+    },
+    {
+        "id": 79,
+        "clase": "Arquero",
+        "nombre": "Aurelio",
+        "vidaMax": 110,
+        "vidaAct": 80,
+        "ataque": 32,
+        "defensa": 14
+    },
+    {
+        "id": 80,
+        "clase": "Arquero",
+        "nombre": "Luisa",
+        "vidaMax": 105,
+        "vidaAct": 100,
+        "ataque": 36,
+        "defensa": 19
+    },
+    {
+        "id": 81,
+        "clase": "Arquero",
+        "nombre": "Rufino",
+        "vidaMax": 117,
+        "vidaAct": 93,
+        "ataque": 32,
+        "defensa": 19
+    },
+    {
+        "id": 82,
+        "clase": "Arquero",
+        "nombre": "Espartaco",
+        "vidaMax": 133,
+        "vidaAct": 97,
+        "ataque": 31,
+        "defensa": 12
+    },
+    {
+        "id": 83,
+        "clase": "Arquero",
+        "nombre": "Lucas",
+        "vidaMax": 120,
+        "vidaAct": 61,
+        "ataque": 43,
+        "defensa": 19
+    },
+    {
+        "id": 84,
+        "clase": "Arquero",
+        "nombre": "Daniel",
+        "vidaMax": 98,
+        "vidaAct": 78,
+        "ataque": 43,
+        "defensa": 12
+    },
+    {
+        "id": 85,
+        "clase": "Arquero",
+        "nombre": "Irma",
+        "vidaMax": 104,
+        "vidaAct": 87,
+        "ataque": 37,
+        "defensa": 22
+    },
+    {
+        "id": 86,
+        "clase": "Arquero",
+        "nombre": "Frida",
+        "vidaMax": 92,
+        "vidaAct": 77,
+        "ataque": 50,
+        "defensa": 25
+    },
+    {
+        "id": 87,
+        "clase": "Arquero",
+        "nombre": "Felipe",
+        "vidaMax": 127,
+        "vidaAct": 66,
+        "ataque": 40,
+        "defensa": 12
+    },
+    {
+        "id": 88,
+        "clase": "Arquero",
+        "nombre": "Mónica",
+        "vidaMax": 100,
+        "vidaAct": 50,
+        "ataque": 37,
+        "defensa": 21
+    },
+    {
+        "id": 89,
+        "clase": "Arquero",
+        "nombre": "Margarita",
+        "vidaMax": 144,
+        "vidaAct": 86,
+        "ataque": 38,
+        "defensa": 11
+    },
+    {
+        "id": 90,
+        "clase": "Arquero",
+        "nombre": "Ricardo",
+        "vidaMax": 100,
+        "vidaAct": 65,
+        "ataque": 39,
+        "defensa": 18
+    },
+    {
+        "id": 91,
+        "clase": "Arquero",
+        "nombre": "Alejandro",
+        "vidaMax": 132,
+        "vidaAct": 108,
+        "ataque": 44,
+        "defensa": 24
+    },
+    {
+        "id": 92,
+        "clase": "Arquero",
+        "nombre": "Ofelia",
+        "vidaMax": 121,
+        "vidaAct": 116,
+        "ataque": 50,
+        "defensa": 17
+    },
+    {
+        "id": 93,
+        "clase": "Arquero",
+        "nombre": "Rosalia",
+        "vidaMax": 98,
+        "vidaAct": 74,
+        "ataque": 35,
+        "defensa": 20
+    },
+    {
+        "id": 94,
+        "clase": "Arquero",
+        "nombre": "Marco Antonio",
+        "vidaMax": 139,
+        "vidaAct": 132,
+        "ataque": 34,
+        "defensa": 19
+    },
+    {
+        "id": 95,
+        "clase": "Arquero",
+        "nombre": "Mauricio",
+        "vidaMax": 129,
+        "vidaAct": 86,
+        "ataque": 38,
+        "defensa": 25
+    },
+    {
+        "id": 96,
+        "clase": "Arquero",
+        "nombre": "Rosario",
+        "vidaMax": 107,
+        "vidaAct": 72,
+        "ataque": 50,
+        "defensa": 15
+    },
+    {
+        "id": 97,
+        "clase": "Arquero",
+        "nombre": "Evelio",
+        "vidaMax": 126,
+        "vidaAct": 92,
+        "ataque": 35,
+        "defensa": 19
+    },
+    {
+        "id": 98,
+        "clase": "Arquero",
+        "nombre": "Juan Carlos",
+        "vidaMax": 132,
+        "vidaAct": 100,
+        "ataque": 45,
+        "defensa": 14
+    },
+    {
+        "id": 99,
+        "clase": "Arquero",
+        "nombre": "Claudia",
+        "vidaMax": 96,
+        "vidaAct": 55,
+        "ataque": 30,
+        "defensa": 17
+    },
+    {
+        "id": 100,
+        "clase": "Arquero",
+        "nombre": "Tania",
+        "vidaMax": 143,
+        "vidaAct": 89,
+        "ataque": 46,
+        "defensa": 16
+    }
+]

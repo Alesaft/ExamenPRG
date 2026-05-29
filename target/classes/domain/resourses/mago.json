@@ -1,0 +1,902 @@
+[
+    {
+        "id": 1,
+        "clase": "Mago",
+        "nombre": "Micaela",
+        "vidaMax": 99,
+        "vidaAct": 66,
+        "ataque": 54,
+        "defensa": 7
+    },
+    {
+        "id": 2,
+        "clase": "Mago",
+        "nombre": "Rosa",
+        "vidaMax": 118,
+        "vidaAct": 113,
+        "ataque": 62,
+        "defensa": 19
+    },
+    {
+        "id": 3,
+        "clase": "Mago",
+        "nombre": "Luz",
+        "vidaMax": 119,
+        "vidaAct": 89,
+        "ataque": 64,
+        "defensa": 8
+    },
+    {
+        "id": 4,
+        "clase": "Mago",
+        "nombre": "Francisco",
+        "vidaMax": 130,
+        "vidaAct": 107,
+        "ataque": 55,
+        "defensa": 5
+    },
+    {
+        "id": 5,
+        "clase": "Mago",
+        "nombre": "Isabela",
+        "vidaMax": 86,
+        "vidaAct": 67,
+        "ataque": 65,
+        "defensa": 20
+    },
+    {
+        "id": 6,
+        "clase": "Mago",
+        "nombre": "Israel",
+        "vidaMax": 110,
+        "vidaAct": 70,
+        "ataque": 42,
+        "defensa": 6
+    },
+    {
+        "id": 7,
+        "clase": "Mago",
+        "nombre": "Mercedes",
+        "vidaMax": 85,
+        "vidaAct": 45,
+        "ataque": 45,
+        "defensa": 14
+    },
+    {
+        "id": 8,
+        "clase": "Mago",
+        "nombre": "Federico",
+        "vidaMax": 91,
+        "vidaAct": 47,
+        "ataque": 49,
+        "defensa": 17
+    },
+    {
+        "id": 9,
+        "clase": "Mago",
+        "nombre": "María Elena",
+        "vidaMax": 88,
+        "vidaAct": 47,
+        "ataque": 47,
+        "defensa": 8
+    },
+    {
+        "id": 10,
+        "clase": "Mago",
+        "nombre": "Óliver",
+        "vidaMax": 126,
+        "vidaAct": 122,
+        "ataque": 62,
+        "defensa": 9
+    },
+    {
+        "id": 11,
+        "clase": "Mago",
+        "nombre": "Florencia",
+        "vidaMax": 88,
+        "vidaAct": 74,
+        "ataque": 58,
+        "defensa": 17
+    },
+    {
+        "id": 12,
+        "clase": "Mago",
+        "nombre": "José Luis",
+        "vidaMax": 112,
+        "vidaAct": 56,
+        "ataque": 64,
+        "defensa": 12
+    },
+    {
+        "id": 13,
+        "clase": "Mago",
+        "nombre": "Sergio",
+        "vidaMax": 93,
+        "vidaAct": 85,
+        "ataque": 40,
+        "defensa": 13
+    },
+    {
+        "id": 14,
+        "clase": "Mago",
+        "nombre": "Marisol",
+        "vidaMax": 119,
+        "vidaAct": 91,
+        "ataque": 59,
+        "defensa": 13
+    },
+    {
+        "id": 15,
+        "clase": "Mago",
+        "nombre": "Jacinto",
+        "vidaMax": 82,
+        "vidaAct": 65,
+        "ataque": 57,
+        "defensa": 14
+    },
+    {
+        "id": 16,
+        "clase": "Mago",
+        "nombre": "Sofía",
+        "vidaMax": 75,
+        "vidaAct": 70,
+        "ataque": 63,
+        "defensa": 13
+    },
+    {
+        "id": 17,
+        "clase": "Mago",
+        "nombre": "Lorenzo",
+        "vidaMax": 86,
+        "vidaAct": 77,
+        "ataque": 54,
+        "defensa": 13
+    },
+    {
+        "id": 18,
+        "clase": "Mago",
+        "nombre": "María",
+        "vidaMax": 84,
+        "vidaAct": 58,
+        "ataque": 60,
+        "defensa": 13
+    },
+    {
+        "id": 19,
+        "clase": "Mago",
+        "nombre": "Salma",
+        "vidaMax": 78,
+        "vidaAct": 40,
+        "ataque": 48,
+        "defensa": 13
+    },
+    {
+        "id": 20,
+        "clase": "Mago",
+        "nombre": "Ivonne",
+        "vidaMax": 112,
+        "vidaAct": 111,
+        "ataque": 62,
+        "defensa": 10
+    },
+    {
+        "id": 21,
+        "clase": "Mago",
+        "nombre": "Rosa",
+        "vidaMax": 121,
+        "vidaAct": 77,
+        "ataque": 40,
+        "defensa": 7
+    },
+    {
+        "id": 22,
+        "clase": "Mago",
+        "nombre": "Camilo",
+        "vidaMax": 130,
+        "vidaAct": 106,
+        "ataque": 48,
+        "defensa": 6
+    },
+    {
+        "id": 23,
+        "clase": "Mago",
+        "nombre": "María Elena",
+        "vidaMax": 76,
+        "vidaAct": 42,
+        "ataque": 56,
+        "defensa": 16
+    },
+    {
+        "id": 24,
+        "clase": "Mago",
+        "nombre": "Juan Carlos",
+        "vidaMax": 88,
+        "vidaAct": 50,
+        "ataque": 56,
+        "defensa": 10
+    },
+    {
+        "id": 25,
+        "clase": "Mago",
+        "nombre": "Alfonso",
+        "vidaMax": 76,
+        "vidaAct": 38,
+        "ataque": 56,
+        "defensa": 5
+    },
+    {
+        "id": 26,
+        "clase": "Mago",
+        "nombre": "María Elena",
+        "vidaMax": 97,
+        "vidaAct": 76,
+        "ataque": 61,
+        "defensa": 19
+    },
+    {
+        "id": 27,
+        "clase": "Mago",
+        "nombre": "Berta",
+        "vidaMax": 72,
+        "vidaAct": 44,
+        "ataque": 61,
+        "defensa": 13
+    },
+    {
+        "id": 28,
+        "clase": "Mago",
+        "nombre": "José",
+        "vidaMax": 121,
+        "vidaAct": 119,
+        "ataque": 44,
+        "defensa": 18
+    },
+    {
+        "id": 29,
+        "clase": "Mago",
+        "nombre": "Nayeli",
+        "vidaMax": 95,
+        "vidaAct": 82,
+        "ataque": 40,
+        "defensa": 16
+    },
+    {
+        "id": 30,
+        "clase": "Mago",
+        "nombre": "Diego",
+        "vidaMax": 87,
+        "vidaAct": 81,
+        "ataque": 46,
+        "defensa": 15
+    },
+    {
+        "id": 31,
+        "clase": "Mago",
+        "nombre": "Yuridia",
+        "vidaMax": 108,
+        "vidaAct": 87,
+        "ataque": 65,
+        "defensa": 13
+    },
+    {
+        "id": 32,
+        "clase": "Mago",
+        "nombre": "Isaac",
+        "vidaMax": 87,
+        "vidaAct": 85,
+        "ataque": 44,
+        "defensa": 17
+    },
+    {
+        "id": 33,
+        "clase": "Mago",
+        "nombre": "Gerónimo",
+        "vidaMax": 80,
+        "vidaAct": 67,
+        "ataque": 49,
+        "defensa": 20
+    },
+    {
+        "id": 34,
+        "clase": "Mago",
+        "nombre": "Gregorio",
+        "vidaMax": 127,
+        "vidaAct": 72,
+        "ataque": 50,
+        "defensa": 12
+    },
+    {
+        "id": 35,
+        "clase": "Mago",
+        "nombre": "Cristal",
+        "vidaMax": 82,
+        "vidaAct": 48,
+        "ataque": 57,
+        "defensa": 18
+    },
+    {
+        "id": 36,
+        "clase": "Mago",
+        "nombre": "Marisol",
+        "vidaMax": 70,
+        "vidaAct": 54,
+        "ataque": 61,
+        "defensa": 10
+    },
+    {
+        "id": 37,
+        "clase": "Mago",
+        "nombre": "Angélica",
+        "vidaMax": 80,
+        "vidaAct": 60,
+        "ataque": 48,
+        "defensa": 8
+    },
+    {
+        "id": 38,
+        "clase": "Mago",
+        "nombre": "María Luisa",
+        "vidaMax": 91,
+        "vidaAct": 67,
+        "ataque": 56,
+        "defensa": 17
+    },
+    {
+        "id": 39,
+        "clase": "Mago",
+        "nombre": "Esteban",
+        "vidaMax": 119,
+        "vidaAct": 77,
+        "ataque": 47,
+        "defensa": 18
+    },
+    {
+        "id": 40,
+        "clase": "Mago",
+        "nombre": "Guadalupe",
+        "vidaMax": 99,
+        "vidaAct": 64,
+        "ataque": 58,
+        "defensa": 18
+    },
+    {
+        "id": 41,
+        "clase": "Mago",
+        "nombre": "Sessa",
+        "vidaMax": 74,
+        "vidaAct": 73,
+        "ataque": 61,
+        "defensa": 5
+    },
+    {
+        "id": 42,
+        "clase": "Mago",
+        "nombre": "Clara",
+        "vidaMax": 95,
+        "vidaAct": 71,
+        "ataque": 53,
+        "defensa": 10
+    },
+    {
+        "id": 43,
+        "clase": "Mago",
+        "nombre": "Esteban",
+        "vidaMax": 108,
+        "vidaAct": 69,
+        "ataque": 50,
+        "defensa": 15
+    },
+    {
+        "id": 44,
+        "clase": "Mago",
+        "nombre": "Miriam",
+        "vidaMax": 86,
+        "vidaAct": 83,
+        "ataque": 52,
+        "defensa": 7
+    },
+    {
+        "id": 45,
+        "clase": "Mago",
+        "nombre": "Dolores",
+        "vidaMax": 107,
+        "vidaAct": 82,
+        "ataque": 60,
+        "defensa": 7
+    },
+    {
+        "id": 46,
+        "clase": "Mago",
+        "nombre": "Marisol",
+        "vidaMax": 128,
+        "vidaAct": 96,
+        "ataque": 44,
+        "defensa": 20
+    },
+    {
+        "id": 47,
+        "clase": "Mago",
+        "nombre": "Evelio",
+        "vidaMax": 125,
+        "vidaAct": 103,
+        "ataque": 43,
+        "defensa": 13
+    },
+    {
+        "id": 48,
+        "clase": "Mago",
+        "nombre": "Luz",
+        "vidaMax": 86,
+        "vidaAct": 58,
+        "ataque": 50,
+        "defensa": 7
+    },
+    {
+        "id": 49,
+        "clase": "Mago",
+        "nombre": "Anabel",
+        "vidaMax": 104,
+        "vidaAct": 79,
+        "ataque": 40,
+        "defensa": 15
+    },
+    {
+        "id": 50,
+        "clase": "Mago",
+        "nombre": "Nicolás",
+        "vidaMax": 85,
+        "vidaAct": 83,
+        "ataque": 56,
+        "defensa": 14
+    },
+    {
+        "id": 51,
+        "clase": "Mago",
+        "nombre": "Víctor",
+        "vidaMax": 96,
+        "vidaAct": 89,
+        "ataque": 48,
+        "defensa": 17
+    },
+    {
+        "id": 52,
+        "clase": "Mago",
+        "nombre": "César",
+        "vidaMax": 117,
+        "vidaAct": 88,
+        "ataque": 53,
+        "defensa": 18
+    },
+    {
+        "id": 53,
+        "clase": "Mago",
+        "nombre": "Jorge Luis",
+        "vidaMax": 89,
+        "vidaAct": 68,
+        "ataque": 65,
+        "defensa": 15
+    },
+    {
+        "id": 54,
+        "clase": "Mago",
+        "nombre": "José Manuél",
+        "vidaMax": 86,
+        "vidaAct": 55,
+        "ataque": 44,
+        "defensa": 12
+    },
+    {
+        "id": 55,
+        "clase": "Mago",
+        "nombre": "Aurelio",
+        "vidaMax": 128,
+        "vidaAct": 115,
+        "ataque": 51,
+        "defensa": 20
+    },
+    {
+        "id": 56,
+        "clase": "Mago",
+        "nombre": "Luis",
+        "vidaMax": 93,
+        "vidaAct": 88,
+        "ataque": 64,
+        "defensa": 17
+    },
+    {
+        "id": 57,
+        "clase": "Mago",
+        "nombre": "Salvador",
+        "vidaMax": 106,
+        "vidaAct": 63,
+        "ataque": 52,
+        "defensa": 14
+    },
+    {
+        "id": 58,
+        "clase": "Mago",
+        "nombre": "Aurora",
+        "vidaMax": 125,
+        "vidaAct": 72,
+        "ataque": 46,
+        "defensa": 12
+    },
+    {
+        "id": 59,
+        "clase": "Mago",
+        "nombre": "Mercedes",
+        "vidaMax": 130,
+        "vidaAct": 98,
+        "ataque": 64,
+        "defensa": 20
+    },
+    {
+        "id": 60,
+        "clase": "Mago",
+        "nombre": "Germán",
+        "vidaMax": 115,
+        "vidaAct": 96,
+        "ataque": 47,
+        "defensa": 13
+    },
+    {
+        "id": 61,
+        "clase": "Mago",
+        "nombre": "Alejandro",
+        "vidaMax": 80,
+        "vidaAct": 53,
+        "ataque": 60,
+        "defensa": 19
+    },
+    {
+        "id": 62,
+        "clase": "Mago",
+        "nombre": "Blanca",
+        "vidaMax": 130,
+        "vidaAct": 118,
+        "ataque": 42,
+        "defensa": 15
+    },
+    {
+        "id": 63,
+        "clase": "Mago",
+        "nombre": "Mariana",
+        "vidaMax": 103,
+        "vidaAct": 101,
+        "ataque": 42,
+        "defensa": 6
+    },
+    {
+        "id": 64,
+        "clase": "Mago",
+        "nombre": "Abelardo",
+        "vidaMax": 94,
+        "vidaAct": 56,
+        "ataque": 60,
+        "defensa": 12
+    },
+    {
+        "id": 65,
+        "clase": "Mago",
+        "nombre": "Dolores",
+        "vidaMax": 116,
+        "vidaAct": 82,
+        "ataque": 55,
+        "defensa": 5
+    },
+    {
+        "id": 66,
+        "clase": "Mago",
+        "nombre": "Zeferino",
+        "vidaMax": 96,
+        "vidaAct": 68,
+        "ataque": 54,
+        "defensa": 8
+    },
+    {
+        "id": 67,
+        "clase": "Mago",
+        "nombre": "José",
+        "vidaMax": 84,
+        "vidaAct": 53,
+        "ataque": 59,
+        "defensa": 9
+    },
+    {
+        "id": 68,
+        "clase": "Mago",
+        "nombre": "Aldo",
+        "vidaMax": 112,
+        "vidaAct": 58,
+        "ataque": 48,
+        "defensa": 7
+    },
+    {
+        "id": 69,
+        "clase": "Mago",
+        "nombre": "Amalia",
+        "vidaMax": 117,
+        "vidaAct": 66,
+        "ataque": 53,
+        "defensa": 7
+    },
+    {
+        "id": 70,
+        "clase": "Mago",
+        "nombre": "René",
+        "vidaMax": 106,
+        "vidaAct": 61,
+        "ataque": 56,
+        "defensa": 14
+    },
+    {
+        "id": 71,
+        "clase": "Mago",
+        "nombre": "Ramiro",
+        "vidaMax": 110,
+        "vidaAct": 101,
+        "ataque": 61,
+        "defensa": 11
+    },
+    {
+        "id": 72,
+        "clase": "Mago",
+        "nombre": "Wilfrido",
+        "vidaMax": 78,
+        "vidaAct": 52,
+        "ataque": 42,
+        "defensa": 11
+    },
+    {
+        "id": 73,
+        "clase": "Mago",
+        "nombre": "Gabriela",
+        "vidaMax": 109,
+        "vidaAct": 95,
+        "ataque": 45,
+        "defensa": 7
+    },
+    {
+        "id": 74,
+        "clase": "Mago",
+        "nombre": "Julio",
+        "vidaMax": 75,
+        "vidaAct": 43,
+        "ataque": 48,
+        "defensa": 8
+    },
+    {
+        "id": 75,
+        "clase": "Mago",
+        "nombre": "Iván",
+        "vidaMax": 104,
+        "vidaAct": 99,
+        "ataque": 59,
+        "defensa": 10
+    },
+    {
+        "id": 76,
+        "clase": "Mago",
+        "nombre": "Paola",
+        "vidaMax": 112,
+        "vidaAct": 77,
+        "ataque": 64,
+        "defensa": 19
+    },
+    {
+        "id": 77,
+        "clase": "Mago",
+        "nombre": "Victoria",
+        "vidaMax": 127,
+        "vidaAct": 75,
+        "ataque": 65,
+        "defensa": 18
+    },
+    {
+        "id": 78,
+        "clase": "Mago",
+        "nombre": "José Eduardo",
+        "vidaMax": 74,
+        "vidaAct": 58,
+        "ataque": 51,
+        "defensa": 17
+    },
+    {
+        "id": 79,
+        "clase": "Mago",
+        "nombre": "Jorge Luis",
+        "vidaMax": 129,
+        "vidaAct": 113,
+        "ataque": 48,
+        "defensa": 18
+    },
+    {
+        "id": 80,
+        "clase": "Mago",
+        "nombre": "Esther",
+        "vidaMax": 99,
+        "vidaAct": 82,
+        "ataque": 43,
+        "defensa": 20
+    },
+    {
+        "id": 81,
+        "clase": "Mago",
+        "nombre": "Yuridia",
+        "vidaMax": 116,
+        "vidaAct": 96,
+        "ataque": 45,
+        "defensa": 13
+    },
+    {
+        "id": 82,
+        "clase": "Mago",
+        "nombre": "Camila",
+        "vidaMax": 108,
+        "vidaAct": 106,
+        "ataque": 52,
+        "defensa": 14
+    },
+    {
+        "id": 83,
+        "clase": "Mago",
+        "nombre": "Iván",
+        "vidaMax": 118,
+        "vidaAct": 116,
+        "ataque": 47,
+        "defensa": 10
+    },
+    {
+        "id": 84,
+        "clase": "Mago",
+        "nombre": "Olga",
+        "vidaMax": 122,
+        "vidaAct": 101,
+        "ataque": 57,
+        "defensa": 18
+    },
+    {
+        "id": 85,
+        "clase": "Mago",
+        "nombre": "Karla",
+        "vidaMax": 111,
+        "vidaAct": 103,
+        "ataque": 65,
+        "defensa": 12
+    },
+    {
+        "id": 86,
+        "clase": "Mago",
+        "nombre": "Bernabé",
+        "vidaMax": 85,
+        "vidaAct": 53,
+        "ataque": 41,
+        "defensa": 17
+    },
+    {
+        "id": 87,
+        "clase": "Mago",
+        "nombre": "Sessa",
+        "vidaMax": 110,
+        "vidaAct": 85,
+        "ataque": 55,
+        "defensa": 13
+    },
+    {
+        "id": 88,
+        "clase": "Mago",
+        "nombre": "Rodolfo",
+        "vidaMax": 102,
+        "vidaAct": 85,
+        "ataque": 60,
+        "defensa": 17
+    },
+    {
+        "id": 89,
+        "clase": "Mago",
+        "nombre": "Antonio",
+        "vidaMax": 84,
+        "vidaAct": 47,
+        "ataque": 60,
+        "defensa": 16
+    },
+    {
+        "id": 90,
+        "clase": "Mago",
+        "nombre": "Modesto",
+        "vidaMax": 91,
+        "vidaAct": 48,
+        "ataque": 48,
+        "defensa": 14
+    },
+    {
+        "id": 91,
+        "clase": "Mago",
+        "nombre": "Reynaldo",
+        "vidaMax": 76,
+        "vidaAct": 62,
+        "ataque": 60,
+        "defensa": 8
+    },
+    {
+        "id": 92,
+        "clase": "Mago",
+        "nombre": "Teresa",
+        "vidaMax": 82,
+        "vidaAct": 45,
+        "ataque": 59,
+        "defensa": 16
+    },
+    {
+        "id": 93,
+        "clase": "Mago",
+        "nombre": "Juan",
+        "vidaMax": 82,
+        "vidaAct": 72,
+        "ataque": 64,
+        "defensa": 11
+    },
+    {
+        "id": 94,
+        "clase": "Mago",
+        "nombre": "Ofelia",
+        "vidaMax": 98,
+        "vidaAct": 79,
+        "ataque": 49,
+        "defensa": 10
+    },
+    {
+        "id": 95,
+        "clase": "Mago",
+        "nombre": "Estela",
+        "vidaMax": 93,
+        "vidaAct": 61,
+        "ataque": 41,
+        "defensa": 15
+    },
+    {
+        "id": 96,
+        "clase": "Mago",
+        "nombre": "Rafaél",
+        "vidaMax": 129,
+        "vidaAct": 70,
+        "ataque": 57,
+        "defensa": 15
+    },
+    {
+        "id": 97,
+        "clase": "Mago",
+        "nombre": "Gerónimo",
+        "vidaMax": 112,
+        "vidaAct": 58,
+        "ataque": 43,
+        "defensa": 15
+    },
+    {
+        "id": 98,
+        "clase": "Mago",
+        "nombre": "Genaro",
+        "vidaMax": 108,
+        "vidaAct": 68,
+        "ataque": 52,
+        "defensa": 15
+    },
+    {
+        "id": 99,
+        "clase": "Mago",
+        "nombre": "Salma",
+        "vidaMax": 105,
+        "vidaAct": 101,
+        "ataque": 62,
+        "defensa": 11
+    },
+    {
+        "id": 100,
+        "clase": "Mago",
+        "nombre": "Luis Manuel",
+        "vidaMax": 108,
+        "vidaAct": 80,
+        "ataque": 50,
+        "defensa": 15
+    }
+]
