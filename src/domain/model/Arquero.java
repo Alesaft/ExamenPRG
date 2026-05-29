@@ -1,10 +1,11 @@
 package domain.model;
 
+import domain.enums.TipoPersonaje;
 import domain.util.interfaces.HabilidadEspecial;
 
 public class Arquero extends Personaje implements HabilidadEspecial {
-    public Arquero(String nombre, int vidaMax, int vidaAct, int ataque, int defensa){
-        super(nombre,vidaMax,vidaAct,ataque,defensa);
+    public Arquero(String nombre, int vidaMax, int vidaAct, int ataque, int defensa, int id){
+        super(TipoPersonaje.ARQUERO,nombre,vidaMax,vidaAct,ataque,defensa,id);
     }
 
     @Override

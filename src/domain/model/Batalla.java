@@ -2,7 +2,7 @@ package domain.model;
 
 import domain.util.interfaces.HabilidadEspecial;
 
-public class Batalla implements HabilidadEspecial {
+public class Batalla  {
     private Personaje personaje1;
     private  Personaje personaje2;
     private boolean turno;
@@ -54,11 +54,5 @@ public class Batalla implements HabilidadEspecial {
         } else if (personaje2.getVidaAct()==0) {
             System.out.println("El ganador de la batalla es: "+personaje1.getNombre());
         }
-    }
-
-    @Override
-    public void usarHabilidadEspecial(Personaje enemigo) {
-        System.out.println(" usa su habilidad especial");
-
     }
 }

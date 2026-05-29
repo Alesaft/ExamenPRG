@@ -1,10 +1,11 @@
 package domain.model;
 
+import domain.enums.TipoPersonaje;
 import domain.util.interfaces.HabilidadEspecial;
 
 public class Mago extends Personaje implements HabilidadEspecial {
-    public Mago(String nombre, int vidaMax, int vidaAct, int ataque, int defensa){
-        super(nombre,vidaMax,vidaAct,ataque,defensa);
+    public Mago(String nombre, int vidaMax, int vidaAct, int ataque, int defensa,int id){
+        super(TipoPersonaje.MAGO,nombre,vidaMax,vidaAct,ataque,defensa,id);
     }
 
     @Override

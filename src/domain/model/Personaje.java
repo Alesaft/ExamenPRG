@@ -1,18 +1,25 @@
 package domain.model;
 
+import domain.enums.TipoPersonaje;
+
 public abstract class Personaje {
+    private final TipoPersonaje tipoPersonaje;
+    private int id;
     private final String nombre;
     private final int vidaMax;
     private int vidaAct;
     private final int ataque;
     private final int defensa;
 
-    public Personaje(String nombre, int vidaMax, int vidaAct, int ataque, int defensa) {
+    public Personaje(TipoPersonaje tipoPersonaje, String nombre, int vidaMax, int vidaAct, int ataque, int defensa, int id) {
+        this.tipoPersonaje = tipoPersonaje;
         this.nombre = nombre;
         this.vidaMax = vidaMax;
         this.vidaAct = vidaAct;
         this.ataque = ataque;
         this.defensa = defensa;
+
+        this.id = id;
     }
 
     public String getNombre() {
@@ -34,6 +41,10 @@ public abstract class Personaje {
     public int getDefensa() {
         return defensa;
     }
+
+    public TipoPersonaje getTipoPersonaje() {return tipoPersonaje;}
+
+    public int getId() {return id;}
 
     public void recibirDaño(int ataque) {
         double probabilidad=Math.random();
@@ -94,4 +105,5 @@ public abstract class Personaje {
     }
 
     public abstract void atacar(Personaje enemigo);
+
 }

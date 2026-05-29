@@ -1,11 +1,12 @@
 package domain.model;
 
+import domain.enums.TipoPersonaje;
 import domain.util.interfaces.Curable;
 import domain.util.interfaces.HabilidadEspecial;
 
 public class Curandero extends Personaje implements Curable, HabilidadEspecial {
-    public Curandero(String nombre, int vidaMax, int vidaAct, int ataque, int defensa){
-        super(nombre,vidaMax,vidaAct,ataque,defensa);
+    public Curandero(String nombre, int vidaMax, int vidaAct, int ataque, int defensa, int id){
+        super(TipoPersonaje.CURANDERO,nombre,vidaMax,vidaAct,ataque,defensa,id);
     }
 
     @Override
